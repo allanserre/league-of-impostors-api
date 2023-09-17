@@ -1,0 +1,13 @@
+{
+  "name": "league-of-impostors",
+  "version": "0.0.1",
+  "description": "Server side for league of impsotors game",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "short-unique-id": "^4.4.4",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  }
+}
